@@ -1,4 +1,4 @@
-# kc-riot-rotator
+# King County Rotator Using Riot
 
 Add `js\riot\kc-riot.min.js` to your sitecore page.
 
