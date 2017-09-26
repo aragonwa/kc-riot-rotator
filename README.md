@@ -4,7 +4,7 @@ Add `js\riot\kc-riot.min.js` to your sitecore page.
 
 In sitecore `http://www.kingcounty.gov/~/media/scripts/kc-riot.min.js`
 
-##HTML
+## HTML
 Create div with attribute `riot-tag="carousel-item"`
 
 Fields (all required):
